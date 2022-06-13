@@ -12,30 +12,30 @@
     width: 100%;
 }
 
-.box-botoes{
+.box-botoes3{
     width: 100%;
     display: flex;
     align-items: center;    
 }
 
-.botoes{
+.botoes3{
     margin: 0px auto;
     border: 0px solid;   
     padding: 3px 8px; 
 }
 
-.botoes ul{
+.botoes3 ul{
     display: flex;
 }
 
-.botoes li{
+.botoes3 li{
     list-style: none;
     margin: 0 150px;
     align-items: center; /*Pra ficar tudo centralizado*/
     justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
 }
 
-.botoes li a{
+.botoes3 li a{
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;

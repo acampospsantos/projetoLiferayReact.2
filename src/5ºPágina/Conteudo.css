@@ -12,23 +12,23 @@
     width: 100%;
 }
 
-.box-botoes {
+.box-botoes5 {
     width: 100%;
     display: flex;
     align-items: center;
 }
 
-.botoes {
+.botoes5 {
     margin: 0px auto;
     border: 0px solid;
     padding: 3px 8px;
 }
 
-.botoes ul {
+.botoes5 ul {
     display: flex;
 }
 
-.botoes li {
+.botoes5 li {
     list-style: none;
     margin: 0 150px;
     align-items: center;
@@ -37,7 +37,7 @@
     /*Pra jogar os itens pra lados opostos da tela*/
 }
 
-.botoes li a {
+.botoes5 li a {
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;

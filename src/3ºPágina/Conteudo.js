@@ -6,8 +6,8 @@ function MiddleContent() {
         <div className="conteudo">
             <div className="centerConteudo">
 
-                <div className="box-botoes">
-                    <div className="botoes">
+                <div className="box-botoe3s">
+                    <div className="botoes3">
                         <ul>
                             <li> <a href="/"> Início </a> </li>
                             <li> <a href="/2"> Voluntários </a> </li>
